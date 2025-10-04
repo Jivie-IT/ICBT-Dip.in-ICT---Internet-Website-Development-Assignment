@@ -1,2 +1,3 @@
 # ICBT-Dip.in-ICT---Internet-Website-Development-Assignment
-Website for Imaginary restaurant using HTML &amp; CSS 
+A simple HTML/CSS website created as a school assignment.
+Imaginary Restaurant Website
